@@ -1,0 +1,11 @@
+<users>
+    <user>
+        <username>admin</username>
+        <password>admin</password>
+    </user>
+    <user>
+        <username>user</username>
+        <password>password</password>
+    </user>
+    <!-- Możesz dodać więcej użytkowników według potrzeb -->
+</users>
